@@ -7,7 +7,7 @@ def print_paint(times, string):
         #result1 = "                                                            *" * i
         #result1 = "|||||||||||||||||||||------------------------@@@@@@@@@@@@@@@@@@@@@----------------------|||||||||||||||||||||" * i
         print(result1)
-    os.system("pause")
+    
 
 """
 result2 = "hei"
